@@ -58,10 +58,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
                                             <!--CAROUSEL START-->
 
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="width: 1500px;">
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="width: 1450px;">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="images/SLIDE2.png" alt="First slide">
+      <img class="d-block w-100" src="images/SLIDE2 copy.png" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="..." alt="Second slide">
@@ -86,17 +86,125 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                         <!--MAIN CONTENT START-->
 
 <div class="container">
-    <div class="col-lg-3">
-        <h1>
-            <img src="images/imagethumb.png" class="rounded" alt="..." width="60%">
 
-        </h1>
+    <div class="row">
+        <div class="col-lg-3">
+                <h1 class="main_content_title">TITLE</h1>
+                <div class="overlayedimage">
+                    <div class="imagebox">
+                        <img src="images/imagethumb.png" class="rounded" alt="..." width="100%">
+                    </div>
+                    <div class="overlay">
+                        <h1>a line of irrelevant text.</h1>
+                    </div>
+
+                </div>
+
+        </div>
+
+        <div class="col-lg-3">
+                <h1 class="main_content_title">TITLE</h1>
+                <div class="overlayedimage">
+                    <div class="imagebox">
+                        <img src="images/imagethumb.png" class="rounded" alt="..." width="100%">
+                    </div>
+                    <div class="overlay">
+                        <h1>a line of irrelevant text.</h1>
+                    </div>
+
+                </div>
+
+        </div>
+
+        <div class="col-lg-3">
+                <h1 class="main_content_title">TITLE</h1>
+                <div class="overlayedimage">
+                    <div class="imagebox">
+                        <img src="images/imagethumb.png" class="rounded" alt="..." width="100%">
+                    </div>
+                    <div class="overlay">
+                        <h1>a line of irrelevant text.</h1>
+                    </div>
+
+                </div>
+
+        </div>
+
+        <div class="col-lg-3">
+                <h1 class="main_content_title">TITLE</h1>
+                <div class="overlayedimage">
+                    <div class="imagebox">
+                        <img src="images/imagethumb.png" class="rounded" alt="..." width="100%">
+                    </div>
+                    <div class="overlay">
+                        <h1>a line of irrelevant text.</h1>
+                    </div>
+
+                </div>
+
+        </div>
+
+
+
     </div>
+<br>
+    <div class="row">
+        <div class="col-lg-3">
+                <h1 class="main_content_title">TITLE</h1>
+                <div class="overlayedimage">
+                    <div class="imagebox">
+                        <img src="images/imagethumb.png" class="rounded" alt="..." width="100%">
+                    </div>
+                    <div class="overlay">
+                        <h1>a line of irrelevant text.</h1>
+                    </div>
 
-    <div class="col-lg-3">
-        <h1>
-            <img src="images/imagethumb.png" class="rounded" alt="..." width="60%">
-        </h1>
+                </div>
+
+        </div>
+
+        <div class="col-lg-3">
+                <h1 class="main_content_title">TITLE</h1>
+                <div class="overlayedimage">
+                    <div class="imagebox">
+                        <img src="images/imagethumb.png" class="rounded" alt="..." width="100%">
+                    </div>
+                    <div class="overlay">
+                        <h1>a line of irrelevant text.</h1>
+                    </div>
+
+                </div>
+
+        </div>
+
+        <div class="col-lg-3">
+                <h1 class="main_content_title">TITLE</h1>
+                <div class="overlayedimage">
+                    <div class="imagebox">
+                        <img src="images/imagethumb.png" class="rounded" alt="..." width="100%">
+                    </div>
+                    <div class="overlay">
+                        <h1>a line of irrelevant text.</h1>
+                    </div>
+
+                </div>
+
+        </div>
+
+        <div class="col-lg-3">
+                <h1 class="main_content_title">TITLE</h1>
+                <div class="overlayedimage">
+                    <div class="imagebox">
+                        <img src="images/imagethumb.png" class="rounded" alt="..." width="100%">
+                    </div>
+                    <div class="overlay">
+                        <h1>a line of irrelevant text.</h1>
+                    </div>
+
+                </div>
+
+        </div>
+
     </div>
 
 <br>

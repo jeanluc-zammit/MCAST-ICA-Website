@@ -27,3 +27,37 @@ body {
 .logo_login {
     width: 30%;
 }
+
+.overlayedimage {
+    position: relative;
+}
+
+.overlayedimage .overlay {
+    position: absolute;
+    opacity: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    padding: 2em;
+    background: #53a7ea;
+    transition: .5s;
+    opacity: 0;
+}
+
+.overlayedimage:hover .overlay {
+    opacity: 1;
+}
+
+.main_content_title {
+    margin-left: 1.5em;
+}
+
+.imagebox {
+    position: relative;
+    overflow: hidden;
+}
+
+.imagebox img {
+    width: 100%;
+}
